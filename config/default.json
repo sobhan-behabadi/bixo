@@ -1,0 +1,7 @@
+{
+  "name": "project",
+  "db": {
+    "address": "mongodb://localhost:27017/project"
+  },
+  "jwt_key": "salambarshomaesmemansobhan123haha674823974683snfsnkjnjksfd"
+}
